@@ -1,0 +1,26 @@
+body {
+    margin: 0; /* Remove default margin */
+    padding: 0; /* Remove default padding */
+    font-family: 'Arial', sans-serif; /* Choose your preferred font family */
+    background-color: #f8f8f8; /* Replace with your desired background color */
+    background-image: url('path/to/your/image.jpg'); /* Replace with the path to your background image */
+    background-size: cover; /* Ensure the background image covers the entire viewport */
+}
+
+header {
+    background-color: #333; /* Replace with the background color for your header */
+    color: white; /* Text color for the header */
+    padding: 10px; /* Adjust as needed for spacing */
+    text-align: center;
+}
+
+section {
+    padding: 20px; /* Adjust as needed for spacing */
+}
+
+footer {
+    background-color: #333; /* Replace with the background color for your footer */
+    color: white; /* Text color for the footer */
+    padding: 10px; /* Adjust as needed for spacing */
+    text-align: center;
+}
